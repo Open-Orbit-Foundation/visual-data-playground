@@ -1,0 +1,8 @@
+# Author: Jacob Auman
+# Created: 3.20.25
+# Updated: 3.21.25
+
+# Test Configuration
+test_img_path: "images/Lenna.png"
+
+
