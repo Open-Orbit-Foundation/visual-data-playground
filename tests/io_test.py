@@ -1,7 +1,7 @@
 import yaml
 
 def test_load_image():
-    from python_modules.io import load_image
+    from custom_modules.io import load_image
 
     with open("config.yml", "r") as f:
         config = yaml.safe_load(f)
